@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
   
 
-GEMINI\_API\_KEY='your\_api\_key'
+```GEMINI\_API\_KEY='your\_api\_key'```
 
   
 
@@ -34,13 +34,13 @@ Replace 'your\_api\_key' with your actual Gemini API key.
 
 Clone the repository to your local machine:
 
-git clone https://github.com/coderwhity/GymEats.git
+```git clone https://github.com/coderwhity/GymEats.git```
 
   
 
 Navigate to the Project Directory
 
-cd GymEats
+```cd GymEats```
 
   
 
@@ -48,7 +48,7 @@ cd GymEats
 
 Install the necessary dependencies for the Flutter project:
 
-flutter pub get
+```flutter pub get```
 
   
 
@@ -60,19 +60,19 @@ To configure Firebase in your project, follow these steps:
 
 Ensure you have Firebase CLI installed. You can install it via npm:
 
-npm install -g firebase-tools
+```npm install -g firebase-tools```
 
   
 
 Log in to Firebase using the CLI:
 
-firebase login
+```firebase login```
 
   
 
 Initialize Firebase in your project:
 
-firebase init
+```firebase init```
 
   
 
@@ -84,7 +84,7 @@ Build and Run the App
 
 Run the app on an emulator or a physical device:
 
-flutter run
+```flutter run```
 
   
 
