@@ -1,4 +1,4 @@
-# **Gym Eats**
+# **Gym Eats 🏋️‍♂️🍴**
 
   
 
@@ -90,10 +90,10 @@ Run the app on an emulator or a physical device:
 
 Usage
 
-*   Home Page: View and search for recipes.
-*   Recipe Details: Get detailed information about each recipe, including AI-generated suggestions.
-*   Basket Page : Displays items in basket and there quantity,
-*   Item Search Page : Search item and display's information about item.
+*   Home Page: View and search for recipes. 🔍
+*   Recipe Details: Get detailed information about each recipe, including AI-generated suggestions. 📋
+*   Basket Page : Displays items in basket and there quantity, 🛒
+*   Item Search Page : Search item and display's information about item. 🔎
 
   
 
