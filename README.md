@@ -7,6 +7,13 @@
 Gym Eats is a Flutter application designed to help gym enthusiasts find and manage easy and nutritious recipes. The app uses AI-generated recipes based on available food ingredients to provide users with personalized meal suggestions.
 
   
+Usage
+
+*   Home Page: View and search for recipes. 🔍
+*   Recipe Details: Get detailed information about each recipe, including AI-generated suggestions. 📋
+*   Basket Page : Displays items in basket and there quantity, 🛒
+*   Item Search Page : Search item and display's information about item. 🔎
+
 
 **Prerequisites**
 
@@ -85,16 +92,6 @@ Build and Run the App
 Run the app on an emulator or a physical device:
 
 ```flutter run```
-
-  
-
-Usage
-
-*   Home Page: View and search for recipes. 🔍
-*   Recipe Details: Get detailed information about each recipe, including AI-generated suggestions. 📋
-*   Basket Page : Displays items in basket and there quantity, 🛒
-*   Item Search Page : Search item and display's information about item. 🔎
-
   
 
 License
